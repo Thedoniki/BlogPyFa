@@ -636,3 +636,4 @@ Domain logic lives in domain classes or services, not controllers.
 DTOs map explicitly to domain models via mappers.
 
 Cross‑cutting concerns are implemented as decorators or middleware, not scattered logic.
+.
